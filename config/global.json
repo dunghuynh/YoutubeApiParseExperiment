@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "huynh"
+        }, 
+        "huynh": {
+            "applicationId": "XXX", 
+            "masterKey": "XXX"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.13"
+    }
+}
